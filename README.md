@@ -6,7 +6,7 @@
 <p>Sou um desenvolvedor de jogos que busca sucesso e reconhecimento</p>
 
 <h2>Ferramentas que utilizo:</h2>
-<table>
+<table align="center">
   <tr>
     <td valign="middle">Godot Game Engine</td>
     <td valign="middle"><img width="100" src="portifílio/godot_icon.png"></td>
