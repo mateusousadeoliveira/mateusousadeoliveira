@@ -7,6 +7,8 @@
 
 <h2>Ferramentas que utilizo:</h2>
 <ul>
-  <li>Godot Gsme Engine <img src="portifílio/godot_icon.png"></li>
+  <li><h3>Game Engine: </h3> Godot Game Engine</li>
+  <li><h3>Editor de arte: </h3> Pixel studio</li>
+  <li><h3>Editor de código: </h3> VS Code</li>
 </ul>
 
