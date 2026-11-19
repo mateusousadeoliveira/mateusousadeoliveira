@@ -11,4 +11,5 @@
   <li><h3>Editor de arte: </h3> Pixel studio</li>
   <li><h3>Editor de código: </h3> VS Code</li>
 </ul>
+<div align="center"> <img width="100" src="portifílio/godot_icon.png"> <img width="100" src="portifílio/pixel_studio.jfif"></div>
 
