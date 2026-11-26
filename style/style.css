@@ -1,9 +1,10 @@
 *{
-    background-color: rgb(36, 48, 71);
+    background-color: rgb(27, 29, 34);
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
 }
 
 tr{
@@ -19,39 +20,82 @@ table{
 }
 
 header{
-    background-color: rgb(35, 32, 54);
-
+    background-color: rgb(32, 31, 36);
 }
 
 h1{
+
     background-color: rgb(240, 227, 56);
     border: 5px solid rgb(32, 26, 0);
+    margin-left: 50px;
 }
 
 h2{
-    background-color: crimson;
+    background-color: transparent;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+h3{
+    background-color: transparent;
     margin-bottom: 25px;
     margin-top: 25px;
 }
 
-h3{
-    background-color: coral;
-    margin-bottom: 25px;
-    margin-top: 25px;
+h4{
+    background-color: transparent;
 }
 .inicio{
-    background-color: rgb(16, 21, 46);
+    background-color: rgb(23, 24, 29);
     margin-top: 100;
     box-shadow: 0px 10px 8px rgba(0, 0, 0,0.4);
-    border: 5px solid rgb(5, 0, 24);
+    border: 5px solid rgb(27, 26, 32);
 }
 
 p{
     margin-bottom: 25px;
     margin-top: 25px;
+    background-color: transparent;
 }
 
-.container{
-    background-color: beige;
+img{
+    border: 1px solid rgb(121, 121, 121) ;
+}
 
+nav{
+    background-color: rgb(134, 187, 80);
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    border: 5px solid rgb(8, 19, 8);
+    box-shadow: 0 10px 8px rgba(0, 0, 0,0.4);
+}
+
+a{
+    background-color: transparent;
+}
+
+.pop{
+    background-color: rgb(223, 51, 51);
+    box-shadow: 0 10px 8px rgba(0, 0, 0,0.4);
+}
+
+.nome{
+    background-color: rgb(255, 194, 39);
+    box-shadow: 0 10px 8px rgba(0, 0, 0,0.4);
+}
+
+.informaçoes{
+    background-color: rgb(93, 91, 219);
+    margin: 15px;
+    border: 5px solid rgb(13, 13, 24) ;
+    border-radius: 5px;
+    box-shadow: -5px 10px 8px rgba(0, 0, 0,0.4) ;
+}
+
+footer{
+    padding: 15px;
+    margin-top: 75px;
+    background-color: rgb(255, 140, 8);
 }
