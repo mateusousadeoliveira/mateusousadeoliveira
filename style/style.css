@@ -8,8 +8,8 @@
 }
 
 tr{
-    background-color: darkcyan;
-    color: black;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
 }
 
 .titulo{
@@ -19,10 +19,12 @@ tr{
 }
 
 table{
-    background-color: rgb(0, 0, 0);
-    border: 5px solid ;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid ;
+    border-radius: 5px;
     box-shadow:  -10px 10px 8px rgba(0, 0, 0,0.4);
     width: 500px;
+    margin: 50px;
 }
 
 header{
@@ -33,12 +35,13 @@ h1{
 
     background-color: transparent;
     margin-left: 50px;
+
 }
 
 h2{
     background-color: transparent;
-    margin-bottom: 25px;
-    margin-top: 25px;
+    margin-bottom: 50px;
+    margin-top: 50px;
     margin-left: 50px;
 }
 
@@ -93,7 +96,7 @@ a{
 
 .informaçoes{
     background-color: rgb(93, 91, 219);
-    margin: 15px;
+    margin: 40px;
     padding: 10px;
     border: 5px solid rgb(13, 13, 24) ;
     border-radius: 5px;
@@ -104,4 +107,8 @@ footer{
     padding: 15px;
     margin-top: 75px;
     background-color: rgb(255, 140, 8);
+}
+
+.container{
+    margin: 20px;
 }
