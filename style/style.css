@@ -1,0 +1,57 @@
+*{
+    background-color: rgb(36, 48, 71);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+tr{
+    background-color: darkcyan;
+    color: black;
+}
+
+table{
+    background-color: rgb(0, 0, 0);
+    border: 5px solid ;
+    box-shadow:  -10px 10px 8px rgba(0, 0, 0,0.4);
+    width: 500px;
+}
+
+header{
+    background-color: rgb(35, 32, 54);
+
+}
+
+h1{
+    background-color: rgb(240, 227, 56);
+    border: 5px solid rgb(32, 26, 0);
+}
+
+h2{
+    background-color: crimson;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+h3{
+    background-color: coral;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.inicio{
+    background-color: rgb(16, 21, 46);
+    margin-top: 100;
+    box-shadow: 0px 10px 8px rgba(0, 0, 0,0.4);
+    border: 5px solid rgb(5, 0, 24);
+}
+
+p{
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.container{
+    background-color: beige;
+
+}
